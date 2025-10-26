@@ -1,6 +1,6 @@
 # Meu Portfólio Pessoal
 
-![Imagem da página inicial do seu portfólio](![home website](image.png))
+[home website](image.png)
 
 > Este é o repositório do meu site de portfólio pessoal, um lugar centralizado para apresentar minhas habilidades, projetos e informações de contato para recrutadores e colegas.
 
