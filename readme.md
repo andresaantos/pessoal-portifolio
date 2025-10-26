@@ -4,7 +4,7 @@
 
 > Este é o repositório do meu site de portfólio pessoal, um lugar centralizado para apresentar minhas habilidades, projetos e informações de contato para recrutadores e colegas.
 
-### 🚀 [Acesse o site aqui!]([URL_DO_SEU_SITE_NO_AR])
+### 🚀 [Acesse o site aqui!]([https://pessoal-portifolio-ten.vercel.app/])
 
 ---
 
